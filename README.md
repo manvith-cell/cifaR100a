@@ -1,0 +1,2 @@
+# cifaR100a
+CIFAR MODEL
